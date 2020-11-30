@@ -934,7 +934,9 @@ transform: scale(1.5);
   line-height: 30px;
 }
 
-
+.footer-subtext p {
+  padding-top: 10px;
+}
 
 .about-list {
   width: 600px;
