@@ -927,18 +927,21 @@ transform: scale(1.5);
   display: flex;
 }
 
-.about-list {
-  width: 600px;
-  justify-content: space-around;
-  display: flex;
-}
-
-
 .footer-subtext  {
   width: 343px;
   margin-top: 30px;
   margin-bottom: 70px;
   line-height: 30px;
+}
+
+.footer-subtext p {
+  padding: 20px;
+}
+
+.about-list {
+  width: 600px;
+  justify-content: space-around;
+  display: flex;
 }
 
 .about-logos img {
