@@ -6,6 +6,10 @@
   padding: 0;
 } 
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family:"Roboto",sans-serif;
 }
@@ -29,7 +33,10 @@ body {
   z-index: 4;
   width: 1140px;
   margin: 0 auto;
+  background-color: #ffffffaa;
 }
+
+
 
 .header-section>.container>.header .header-list {
   display: flex;
