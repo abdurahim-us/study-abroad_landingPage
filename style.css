@@ -140,7 +140,7 @@ body {
   background-position: -10%  -80%;
   justify-content: space-between;
   position: relative;
-  background-image: url(../img/Oval.svg);
+  background-image: url(./img/Oval.svg);
   background-repeat: no-repeat;
   width: 350px;
   height: 330px;
@@ -171,7 +171,7 @@ body {
   display: inline-block;
   background-repeat: no-repeat;
   content:"";
-  background-image: url(../img/arrow-right.svg);
+  background-image: url(./img/arrow-right.svg);
   width: 30px;
   height: 20px;
   transition: transform 1s;
@@ -421,7 +421,7 @@ transform: scale(1.5);
 .list-link:after {
   display: inline-block;
   content: "";
-  background-image: url('../img/arrow-right.svg');
+  background-image: url('./img/arrow-right.svg');
   background-repeat: no-repeat;
   width: 30px;
   height: 20px;
@@ -530,7 +530,7 @@ transform: scale(1.5);
   display: inline-block;
   background-repeat:  no-repeat;
   height: 20px;
-  background-image: url(../img/arrow-right.svg);
+  background-image: url(./img/arrow-right.svg);
 }
 
 .news-button a:hover::after{
@@ -676,7 +676,7 @@ transform: scale(1.5);
 .item-link-subtext::after {
   content: "";
   display: inline-block;
-  background-image: url('../img/arrow-right.svg');
+  background-image: url('./img/arrow-right.svg');
   background-repeat: no-repeat;
   width: 25px;
   height: 25px;
@@ -688,7 +688,7 @@ transform: scale(1.5);
 .item-link-subtext:hover::after {
   content: "";
   display: -inline-block;
-  background-image: url('../img/arrow-right.svg');
+  background-image: url('./img/arrow-right.svg');
   background-repeat: no-repeat;
   width: 25px;
   height: 25px;
@@ -715,7 +715,7 @@ transform: scale(1.5);
 .events-time::before {
   content: "";
   display: block;
-  background-image: url('../img/clock.svg');
+  background-image: url('./img/clock.svg');
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
@@ -787,7 +787,7 @@ transform: scale(1.5);
 }
 
 .testimonial {
-  background-image: url(../img/tres.png);
+  background-image: url(./img/tres.png);
   background-repeat: no-repeat;
   background-position: 260px 0px;
   background-size: 130px;
@@ -909,7 +909,7 @@ transform: scale(1.5);
 .apply-button-link::after {
   content:"";
   display: block;
-  background-image: url('../img/arrow-right.svg');
+  background-image: url('./img/arrow-right.svg');
   background-repeat: no-repeat;  
   width: 30px;
   height: 30px;
